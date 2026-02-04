@@ -27,6 +27,6 @@ A Flutter application that fetches Indian colleges data from a public API and di
 ## 🌐 API Used
 
 Indian Colleges List (GitHub JSON)
-```
+`
 https://raw.githubusercontent.com/VarthanV/Indian-Colleges-List/refs/heads/master/colleges.json
-```
+`
