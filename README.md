@@ -1,16 +1,32 @@
-# api_app
+# 🎓 Universities API App (Flutter)
 
-A new Flutter project.
+A Flutter application that fetches Indian colleges data from a public API and displays it in a searchable list with **real-time highlighted text**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📡 Fetches data from REST API
+- 🔍 Real-time search by **college name** or **district**
+- ✨ Search text highlighting
+- 🌙 Dark theme support
+- ⚡ Fast & smooth UI
+- 🧼 Clean architecture (Model – Service – UI)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- **Flutter**
+- **Dart**
+- **HTTP package**
+- **REST API**
+
+---
+
+## 🌐 API Used
+
+Indian Colleges List (GitHub JSON)
+```
+https://raw.githubusercontent.com/VarthanV/Indian-Colleges-List/refs/heads/master/colleges.json
+```
